@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=220&section=header&text=DINESH%20BISHOYI&fontSize=52&fontColor=00ff41"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF41&center=true&width=650&height=45&lines=Coding+in+Progress;Building+Systems;DSA+Focused+Engineer;React+Developer">
+</p>
+
 <h1 align="center">Dinesh Bishoyi</h1>
 <h3 align="center">Computer Science Undergraduate • Software Engineering Aspirant</h3>
 
